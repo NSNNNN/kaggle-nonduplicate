@@ -1,2 +1,2 @@
 # kaggle-nonduplicate
-حلیل داده غیرتکراری Kaggle
+تحلیل داده غیرتکراری Kaggle
